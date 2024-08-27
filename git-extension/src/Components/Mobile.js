@@ -4,6 +4,7 @@ import { FiUser, FiMessageSquare } from "react-icons/fi";
 import { SlOptions } from "react-icons/sl";
 import { MdClose } from "react-icons/md";
 import { ContextApp } from "../utils/Context";
+
 function Mobile() {
   const { Mobile, setMobile, handleQuery } = useContext(ContextApp);
   return (
@@ -66,7 +67,7 @@ function Mobile() {
                 alt="user"
                 className="w-8 h-8 object-cover rounded-sm"
               />
-              Ritesh
+              User
             </span>
             <span className="rounded-md  px-1.5 py-0.5 text-xs font-medium uppercase text-gray-500">
               <SlOptions />

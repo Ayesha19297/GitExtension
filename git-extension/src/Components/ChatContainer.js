@@ -3,7 +3,7 @@ import { ContextApp } from "../utils/Context";
 import { LuPanelLeftOpen } from "react-icons/lu";
 import { HiOutlineMenuAlt2 } from "react-icons/hi";
 import { RiSendPlane2Fill } from "react-icons/ri";
-import Chat from "./Chat";
+import Chat from "./ChatInterface";
 function ChatContainer() {
   const {
     setShowSlide,
