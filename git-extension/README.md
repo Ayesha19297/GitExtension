@@ -6,7 +6,7 @@ Features:
 A webview panel (sidebar panel) with a minimal chat interface.
 User can ask questions in the chat interface and converse with any LLM (example: OpenAI API)
 
-Deployment link of UI :
+Deployment link of UI : https://git-extension.netlify.app/
 
 Due to openAi api issues, functionality is not upto the mark and responses are not getting generated.
 
